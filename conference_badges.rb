@@ -28,7 +28,7 @@ def printer
     puts speaker
 end
 
-assign_rooms.each do |room|
+assign_rooms(attendees).each do |room|
   puts room
 end
 
