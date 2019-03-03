@@ -24,7 +24,7 @@ rooms
 end
 
 def printer
-  
+  batch_badge_creator(speakers)
 end
 
 
