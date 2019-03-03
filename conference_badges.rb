@@ -24,6 +24,7 @@ rooms
 end
 
 def printer
+  
 end
 
 
