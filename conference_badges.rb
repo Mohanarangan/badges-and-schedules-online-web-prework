@@ -20,7 +20,7 @@ def assign_rooms(attendees)
     rooms << "Hello #{attendee}!, You'll be assigned to room #{sum}!"
     sum += 1
 end
-sum
+rooms
 end
 
 
