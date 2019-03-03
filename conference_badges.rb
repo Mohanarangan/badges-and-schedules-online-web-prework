@@ -16,7 +16,7 @@ end
 def assign_rooms(attendees)
   rooms = []
   attendees.each do |attendee|
-    rooms << 
+    rooms << "Hello #{attendee}, my name is "
 end
 
 
