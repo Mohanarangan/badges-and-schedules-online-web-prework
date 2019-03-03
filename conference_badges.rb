@@ -23,7 +23,7 @@ end
 rooms
 end
 
-def printer
+def printer(speakers)
   batch_badge_creator(speakers).each do |speaker|
     puts speaker
 end
