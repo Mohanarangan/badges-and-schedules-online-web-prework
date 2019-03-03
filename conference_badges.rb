@@ -23,6 +23,17 @@ end
 rooms
 end
 
+def printer
+end
+
+
+
+
+
+
+
+
+
 
 
 
