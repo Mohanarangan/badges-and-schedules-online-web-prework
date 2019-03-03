@@ -19,6 +19,8 @@ def assign_rooms(attendees)
   attendees.each do |attendee|
     rooms << "Hello #{attendee}!, You'll be assigned to room #{sum}"!
 end
+sum
+end
 
 
 
